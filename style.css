@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: rgb(135, 210, 135);
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xxx-large;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+.Eemail{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.m5{
+    background-color: rgb(200, 255, 200);
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.m4{
+    background-color: rgb(200, 255, 200);
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.CChar{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
